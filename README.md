@@ -1,2 +1,5 @@
 # Test
-Testing
+Include sample.php
+
+# output
+Welcome
